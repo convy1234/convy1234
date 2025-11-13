@@ -13,15 +13,14 @@ I’m passionate about uniting **technology, business strategy, and systems engi
   *Tech:* React.js, Django, PostgreSQL, REST APIs, Webhooks, Docker, Redis  
 
 - 💬 **ChatSeal** – Intelligent chat & customer engagement platform with AI automation and NLP models.  
-  *Tech:* Python, FastAPI, TensorFlow, Redis, Celery  
-
-- 🛒 **We-shop** – AI-enhanced marketplace integrating smart recommendations, analytics, and real-time payments.  
-  *Tech:* Next.js, Node.js, MongoDB, OPay API, Flutterwave, Webhooks  
+  *Tech:* Python, FastAPI, TensorFlow, Redis, Celery   
 
 - 🤖 **AI & Automation Systems** – Predictive analytics, chatbot frameworks, and process automation for enterprises.  
 
 - 📱 **Mobile POS & Retail App Suite** – Cross-platform apps for POS operations, real-time inventory, and payment management.  
-  *Tech:* React Native (Expo), Django REST, Bluetooth Printing, Monnify API  
+  *Tech:* React Native (Expo), Django REST, Bluetooth Printing, Monnify API
+
+  
 
 - 🌐 **XR Experiments (AR/VR)** – Prototyping interactive retail and training environments using WebXR and Unity3D.  
 
@@ -57,8 +56,7 @@ I’m passionate about uniting **technology, business strategy, and systems engi
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40convy1234-black?style=flat-square&logo=github)](https://github.com/convy1234)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Covenant-blue?style=flat-square&logo=linkedin)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=flat-square&logo=react)](https://yourwebsite.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%40covenantoo-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com)
+
 
 ---
 
