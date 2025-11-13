@@ -1,63 +1,64 @@
-# 👋 Hi, I’m Iregbeyen Covenant Ayomikun
+# 👋 Hi, I'm Iregbeyen Covenant Ayomikun  
+**Software Architect | CTO | AI & Full-Stack Developer | Mobile & XR Engineer**
 
-🚀 **Software Architect | CTO | Full-Stack Developer | AI & XR Systems Engineer | Mobile App Developer**
-
-I build and architect large-scale, intelligent software ecosystems — from AI-driven chat platforms and multi-store e-commerce networks to POS systems and immersive AR/VR experiences.  
-I’m passionate about uniting **technology, business strategy, and systems engineering** to create seamless, impactful digital products across web, mobile, and extended reality platforms.
-
----
-
-### 🧩 Core Projects
-
-- 🏪 **Storefront** – Centralized e-commerce & POS ecosystem powering SMEs and retail enterprises.  
-  *Tech:* React.js, Django, PostgreSQL, REST APIs, Webhooks, Docker, Redis  
-
-- 💬 **ChatSeal** – Intelligent chat & customer engagement platform with AI automation and NLP models.  
-  *Tech:* Python, FastAPI, TensorFlow, Redis, Celery   
-
-- 🤖 **AI & Automation Systems** – Predictive analytics, chatbot frameworks, and process automation for enterprises.  
-
-- 📱 **Mobile POS & Retail App Suite** – Cross-platform apps for POS operations, real-time inventory, and payment management.  
-  *Tech:* React Native (Expo), Django REST, Bluetooth Printing, Monnify API
-
-  
-
-- 🌐 **XR Experiments (AR/VR)** – Prototyping interactive retail and training environments using WebXR and Unity3D.  
+🚀 Building enterprise-grade systems — from POS and E-commerce platforms to Ride-Hailing, AI Automation, and AR/VR experiences.  
+💼 Founder & Lead Architect at **Storefront.ng** and **Digi o2** | Open for tech partnerships and product collaborations.
 
 ---
 
-### 🧠 Tech Stack
+## 💡 What I Do
 
-**Frontend:** React.js, Next.js, Vue.js, Tailwind CSS, Redux, Bootstrap  
-**Mobile:** React Native (Expo), Flutter (basic), Progressive Web Apps (PWA)  
+🔹 Architect and build **high-performance enterprise platforms** using modern web and mobile frameworks  
+🔹 Develop **cross-platform mobile applications** (POS, Ride-Hailing, Retail) with real-time data flow  
+🔹 Integrate **AI-driven automation**, chatbots, and predictive analytics into business systems  
+🔹 Design **scalable microservice infrastructures** and secure APIs for distributed systems  
+🔹 Deploy, maintain, and optimize full-stack apps on **Dockerized Linux environments**  
+🔹 Prototype **AR/VR** environments and immersive digital experiences for next-gen commerce  
+
+---
+
+## 🧰 Tech Stack & Tools
+
+**Languages:** Python, JavaScript, TypeScript, HTML5, CSS3  
+**Frontend:** React.js, Next.js, Tailwind CSS, Redux, Bootstrap  
+**Mobile:** React Native (Expo), Flutter (Basic)  
 **Backend:** Django, FastAPI, Node.js (Express), Flask  
-**Databases:** PostgreSQL, MySQL, MongoDB, Redis  
-**DevOps & Cloud:** Docker, GitHub Actions, Nginx, AWS, CI/CD Pipelines  
-**AI & Machine Learning:** Python (NLP, Deep Learning), TensorFlow, PyTorch, scikit-learn, OpenAI API  
-**AR/VR & Graphics:** Unity3D, WebXR, Three.js, Blender (asset optimization)  
-**Other Skills:** Webhooks, Payment Gateway Integration (Monnify, OPay, Flutterwave), REST & GraphQL APIs, System Design, Microservices Architecture, Software Security, and Version Control (Git)
+**Database:** PostgreSQL, MySQL, MongoDB, Redis  
+**AI/ML:** TensorFlow, PyTorch, scikit-learn, OpenAI API  
+**DevOps:** Docker, GitHub Actions, Nginx, CI/CD, AWS  
+**Specialties:** Webhooks, Payment Integrations (Monnify, OPay, Flutterwave), Google Maps API, Microservices Architecture, REST & GraphQL APIs  
+**Other:** Unity3D, WebXR, Blender, Linux (Red Hat / Ubuntu), Git
 
 ---
 
-### 💼 Leadership & Experience
+## 🚧 Projects In Progress / Completed
 
-- 🧱 **CTO / Software Architect – Digi o2 & Storefront.ng**  
-  Lead end-to-end architecture for enterprise software products, managing private codebases and multi-system integrations.  
-
-- 🧩 **System Designer & Product Engineer**  
-  Designed and implemented ERP, POS, AI, and e-commerce systems used across multiple organizations.  
-
-- ⚙️ **Open Source Contributor**  
-  Focused on developer tools, fintech, AI automation, and scalable infrastructure solutions.  
+🔹 **Storefront** – Unified E-commerce & POS management platform  
+🔹 **ChatSeal** – AI-powered customer interaction and support system  
+🔹 **E-Roommerce** – Scalable marketplace with AI recommendations & vendor analytics  
+🔹 **Ride-Hailing Platform** – Real-time ride matching, driver routing, and fare management system  
+🔹 **Smart POS Terminal** – Retail POS with NFC, token sales, and Bluetooth printing  
+🔹 **AI Analytics Engine** – Predictive insight model for business intelligence  
+🔹 **ERP & Retail Systems Integration** – Cross-department data management for enterprise clients  
+🔹 **AR/VR Retail Prototypes** – Interactive store and training modules using Unity3D & WebXR  
 
 ---
 
-### 🌐 Connect With Me
+## 📈 GitHub Stats
+
+![Covenant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=convy1234&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=convy1234&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Let’s Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40convy1234-black?style=flat-square&logo=github)](https://github.com/convy1234)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Covenant-blue?style=flat-square&logo=linkedin)](https://linkedin.com)
-
+[![Twitter](https://img.shields.io/badge/Twitter-%40covenantoo-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=flat-square&logo=react)](https://yourwebsite.com)
 
 ---
 
-> “I don’t just write code — I design intelligent ecosystems where technology, creativity, and business growth thrive together.”
+💬 *“I don’t just build apps — I design intelligent ecosystems that merge AI, business, and innovation.”*  
+💻 *Open to collaborations, enterprise consulting, and startup MVPs.*
